@@ -2,6 +2,9 @@ Brewing with Node
 =====================
 My slides from the first NodeJS Budapest Meetup
 
+#### Presentation: ####
+### <http://hekike.github.io/BrewingWithNodeSlides> ###
+
 #### Topics: ####
 
 - Brewing beer
